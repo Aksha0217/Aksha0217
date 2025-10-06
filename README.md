@@ -7,7 +7,7 @@
 ---
 
 ## ✨ My Approach  
-_I see technology as more than just code — it’s a way to solve problems that actually matter.  
+_I see technology as more than just code , it’s a way to solve problems that actually matter.  
 My approach blends data-driven decision making with human-centered design, ensuring that every solution I create is not only technically strong but also meaningful and impactful._  
 
 ---
