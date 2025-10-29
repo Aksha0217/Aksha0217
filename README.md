@@ -94,14 +94,7 @@ NLP + WordCloud visualization to analyze sentiments from product reviews.
 <tr>
 <td width="50%" align="center">
 
-### 🎯 Interview Preparation Website  
-Interactive platform offering mock interviews, resources & AI recommendations.  
-<b>Tech Stack:</b> HTML, CSS, JavaScript, Flask  
-<br><br>
-<img src="https://img.shields.io/badge/Interview%20Website-FF69B4?style=for-the-badge&logo=html5&logoColor=white"/>
 
-</td>
-<td width="50%" align="center">
 
 ### 🛒 AI E-Commerce Platform  
 Enterprise-grade e-commerce system with AI recommendations, real-time analytics & microservices.  
