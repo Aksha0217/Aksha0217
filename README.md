@@ -1,7 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="40px" height="40px"/> 
-  Hi, I'm <span style="color:#00BFFF;">Aksha N</span>  
+  👋 Hi, I'm <span style="color:#00BFFF;">Aksha N</span>
 </h1>
 
 <h3 align="center">
@@ -47,12 +46,74 @@ _My approach blends data-driven decision making with human-centered design, ensu
 
 ## 🚀 Featured Projects  
 
-🔹 [**AI Prep Buddy**](https://ai-prep-buddy-an.netlify.app/) – AI-based exam & interview preparation assistant  
-🔹 **Bill Management System** – Flask + AWS + MySQL web app handling 1000+ transactions/week  
-🔹 **Email Spam Classifier** – End-to-end NLP pipeline using Logistic Regression & Scikit-learn  
-🔹 **Sentiment Analysis on Product Reviews** – NLP + WordCloud + Python visualization  
-🔹 **Interview Preparation Website** – Mock interviews & learning resources  
-🔹 **AI E-Commerce Platform** – Enterprise-grade e-commerce system with AI product recommendations, Dockerized microservices, WebSocket live updates & Spring Cloud scalability  
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+  
+### 🧠 [AI Prep Buddy](https://ai-prep-buddy-an.netlify.app/)
+AI-based exam & interview preparation assistant that uses NLP and AI to personalize questions and mock interviews.  
+<b>Tech Stack:</b> React, Flask, OpenAI API  
+<br><br>
+<img src="https://img.shields.io/badge/AI%20Prep%20Buddy-00C4CC?style=for-the-badge&logo=react&logoColor=white"/>
+
+</td>
+<td width="50%" align="center">
+
+### 💸 Bill Management System  
+Flask + AWS + MySQL web app automating billing for 1000+ weekly transactions.  
+<b>Tech Stack:</b> Flask, AWS, MySQL, Bootstrap  
+<br><br>
+<img src="https://img.shields.io/badge/Bill%20Manager-0078D7?style=for-the-badge&logo=flask&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🧬 Email Spam Classifier  
+End-to-end NLP pipeline using Scikit-learn & Logistic Regression to classify spam with 98% accuracy.  
+<b>Tech Stack:</b> Python, Scikit-learn, Pandas  
+<br><br>
+<img src="https://img.shields.io/badge/Spam%20Classifier-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
+
+</td>
+<td width="50%" align="center">
+
+### 💬 Sentiment Analysis on Product Reviews  
+NLP + WordCloud visualization to analyze sentiments from product reviews.  
+<b>Tech Stack:</b> Python, Matplotlib, WordCloud  
+<br><br>
+<img src="https://img.shields.io/badge/Sentiment%20Analysis-FFD700?style=for-the-badge&logo=python&logoColor=black"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🎯 Interview Preparation Website  
+Interactive platform offering mock interviews, resources & AI recommendations.  
+<b>Tech Stack:</b> HTML, CSS, JavaScript, Flask  
+<br><br>
+<img src="https://img.shields.io/badge/Interview%20Website-FF69B4?style=for-the-badge&logo=html5&logoColor=white"/>
+
+</td>
+<td width="50%" align="center">
+
+### 🛒 AI E-Commerce Platform  
+Enterprise-grade e-commerce system with AI recommendations, real-time analytics & microservices.  
+<b>Tech Stack:</b> Spring Boot (Java 17), React, TypeScript, Docker, Spring Cloud  
+<br><br>
+<img src="https://img.shields.io/badge/AI%20E--Commerce%20Platform-4C1?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
